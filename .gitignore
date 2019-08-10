@@ -1,0 +1,8 @@
+.vscode/*
+/*/.vscode/*
+/*/__pycache__/*
+/*/.exercism/*
+/*/.pytest_cache/*
+/*/*_test.py
+/*/*.pyc
+/*/README.md
